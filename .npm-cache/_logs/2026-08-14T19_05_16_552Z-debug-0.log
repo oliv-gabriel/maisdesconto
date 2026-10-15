@@ -1,0 +1,26 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\JOJO\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.17.0
+2 info using node@v24.16.0
+3 silly config load:file:C:\Users\JOJO\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:D:\Users\JOJO\Documents\PROJETOS\maisdesconto\.npmrc
+5 silly config load:file:C:\Users\JOJO\.npmrc
+6 silly config load:file:C:\Users\JOJO\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--no-audit" "--no-fund" "--cache" ".npm-cache"
+9 verbose logfile logs-max:10 dir:D:\Users\JOJO\Documents\PROJETOS\maisdesconto\.npm-cache\_logs\2026-08-14T19_05_16_552Z-
+10 verbose logfile D:\Users\JOJO\Documents\PROJETOS\maisdesconto\.npm-cache\_logs\2026-08-14T19_05_16_552Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 warn allow-scripts 2 packages have install scripts not yet covered by allowScripts:
+15 warn allow-scripts   sharp@0.34.5 (install: node install/check.js || npm run build)
+15 warn allow-scripts   unrs-resolver@1.12.2 (postinstall: node postinstall.js)
+15 warn allow-scripts
+15 warn allow-scripts Run `npm approve-scripts --allow-scripts-pending` to review, or `npm approve-scripts <pkg>` to allow.
+16 verbose cwd D:\Users\JOJO\Documents\PROJETOS\maisdesconto
+17 verbose os Windows_NT 10.0.26200
+18 verbose node v24.16.0
+19 verbose npm  v11.17.0
+20 verbose exit 0
+21 info ok
